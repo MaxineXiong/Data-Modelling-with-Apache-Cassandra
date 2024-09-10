@@ -23,6 +23,7 @@ event_data/2018-11-09-events.csv
 
 These files include information on song titles, user details, and session data, as shown in the image below.
 
+
 <br>
 
 ## Repository Structure
