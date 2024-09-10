@@ -23,6 +23,8 @@ event_data/2018-11-09-events.csv
 
 These files include information on song titles, user details, and session data, as shown in the image below.
 
+![image](https://github.com/user-attachments/assets/5a2cd3d4-b1d1-4052-837b-8e7ade421e31)
+
 
 <br>
 
