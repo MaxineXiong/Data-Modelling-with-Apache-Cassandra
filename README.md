@@ -2,12 +2,13 @@
 [![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/MaxineXiong)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://www.python.org)
+[![Apache Cassandra](https://img.shields.io/badge/Apache_Cassandra-1287B1?logo=Apache+Cassandra&logoColor=white)](https://cassandra.apache.org/)
 
 <br>
 
 ## Project Description
 
-This project focuses on building an Apache Cassandra database for *Sparkify*, a startup that offers music streaming services. Sparkify collects large amounts of user activity and song data, and the analytics team wants to query this data to better understand user behaviour, specifically around song preferences. The goal is to create an ETL pipeline to preprocess raw event data stored in multiple CSV files, consolidate it, and design a Cassandra data model to support queries on the song play data.
+This project focuses on building an Apache Cassandra database for *Sparkify*, a startup that offers music streaming services. Sparkify collects large amounts of user activity and song data, and the analytics team wants to query this data to better understand user behaviour, specifically around song preferences. The goal is to create an ETL pipeline to preprocess raw event data stored in multiple CSV files, consolidate it, and design and implement a Cassandra data model to support queries on the song play data.
 
 <br>
 
@@ -20,7 +21,7 @@ event_data/2018-11-08-events.csv
 event_data/2018-11-09-events.csv
 ```
 
-These files include information on song titles, user details, and session data, as the image below shows.
+These files include information on song titles, user details, and session data, as shown in the image below.
 
 <br>
 
@@ -72,4 +73,4 @@ This project is licensed under the [MIT License](https://choosealicense.com/lic
 
 ## Acknowledgement
 
-This project was completed as part of the Data Engineering Nanodegree at Udacity. Special thanks to [Udacity](https://www.udacity.com/) for providing the datasets and project specifications.
+This project was completed as part of the [Data Engineering Nanodegree at Udacity](https://www.udacity.com/course/data-engineer-nanodegree--nd027?promo=labor&coupon=LABOR40&utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=19692269004_c_individuals&utm_term=151372113572&utm_keyword=udacity%20data%20engineering_e&utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=19692269004_c_individuals&utm_term=151372113572&utm_keyword=udacity%20data%20engineering_e&gad_source=1&gclid=CjwKCAjwufq2BhAmEiwAnZqw8q11WJ-KNhO-d1bBQodev0p2b9gtBIIlBp0_jZotggKBM-bj36SE3hoC968QAvD_BwE). Special thanks to [Udacity](https://www.udacity.com/) for providing the datasets and project specifications.
