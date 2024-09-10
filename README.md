@@ -54,7 +54,7 @@ Data_Modelling_with_Apache_Cassandra/
     - Jupyter Notebook (optional for running the `.ipynb` file)
 2. **Steps**:
     - Run the Jupyter notebook `Project_Data_Modelling_with_Apache_Cassandra.ipynb`.
-    - The notebook will pre-process the data by consolidating the partitioned files into a single streamlined CSV. It then will design and create tables in Apache Cassandra based on the queries provided by *Sparkify*, and finally, will insert data from the CSV into those tables using CQL commands.
+    - The notebook will pre-process the data by consolidating the partitioned files into a single streamlined CSV. It then will design and create tables in Apache Cassandra based on the specific queries from *Sparkify*’s analytics team, and finally, will insert data from the CSV into those tables using CQL commands.
     - You can modify the queries or data model to suit your needs.
 
 <br>
